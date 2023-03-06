@@ -1,0 +1,22 @@
+
+
+variaveis:
+
+sinonimos_significados: variavel | recipiente | lugarNaMemoria | artefato | resultado | representacao | gaveta | guarda algo valor | 
+
+possibilidades_variaveis: [ concretaComValor, parametroPreparaValor , variavelComputada ],
+
+modo_de_uso : 
+  variavelConcreta:  quando sabemos seu valor.
+  parametro:  usamos a var como param quando nao sabemos ainda seu valor..
+  narracao:  "Quando usarem " ele sera preenchido. 
+  
+resumo: precisamos de um dado, se ele tem valor guardamos numa variavel.
+se nao sabemos ainda seu valor pedido em param de uma funcao.
+
+---
+variavel_computada: é a soma ou valor de mais que uma variaveis juntas...obs pra isto ao inves de fazer getters e setters faca somente um setter como se fosse a  variavel que vai trazer obresultado desta computabilidade ex: get nomeCompleto .. vai recuperar as vars nome e sobrenome computadas.
+
+valor_computavel: sao variaveis que serao computadas entre outras variaveis apra gerar um resultado. ex: var1 + var2 = var3 // essas variaveis ou atributos em uma classe sao computaveis.
+
+---

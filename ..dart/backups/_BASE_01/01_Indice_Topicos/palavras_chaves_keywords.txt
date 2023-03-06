@@ -1,0 +1,10 @@
+
+keywords_de_saida_bloco:
+  retorno: return
+
+---
+
+keywords_de_objetos:
+ propriedade_obrigatoria: required
+
+ 

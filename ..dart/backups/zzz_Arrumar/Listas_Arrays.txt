@@ -1,0 +1,23 @@
+
+// listas dart :: doc: na doc procurar por dart Core mostra mais detalhado ex: Api listas : https://api.dart.dev/be/180791/dart-core/List-class.html
+
+// sintaxe: List<E> = [item0, item1, items] obs: o param <E> o "E" quer dizer que a lista sera do tipo que vc passar neste E.
+
+
+// metodos no prototipo de Listas .. vc pode usa-los encadeando ponto apos o nome da variavel que carrega a lista.
+
+ // usando as propriedades e metodos para listas .. desencadeando nas nossas listas. obs: se for propreidade vc nao coloca () executor , se for metodo vc coloca executor () e se pedir opcoes aprams coloque dentro do executor.
+
+  // insercoes:
+  // funcao add(item) :: vai adicionar o item passado no final da lista
+
+  // funcao addAll([item1, item2, item3]) :: vai adicionar mais que um item na lista de uma vez
+
+  // insert(posicao, item) :: vai adicionar na posicao passada o novo item na lista
+
+---
+
+// leituras:
+// a prop first vai retornar o primeiro item da lista
+
+

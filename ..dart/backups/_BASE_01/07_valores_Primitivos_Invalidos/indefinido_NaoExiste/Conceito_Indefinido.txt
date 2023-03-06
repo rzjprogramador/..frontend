@@ -1,0 +1,4 @@
+
+indefinido: valor undefined quando nao existe a variavel, nem retorno de algum bloco.
+
+resumo: indefinido Nao Existe

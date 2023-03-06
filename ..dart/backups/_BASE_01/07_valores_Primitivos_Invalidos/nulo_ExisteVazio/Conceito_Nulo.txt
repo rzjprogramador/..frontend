@@ -1,0 +1,3 @@
+
+conceito: nulo é quando a variavel existe mas nao tem nenhum conteudo de valor dentro dela.
+resumo: nulo Existe Vazio Sem Conteudo

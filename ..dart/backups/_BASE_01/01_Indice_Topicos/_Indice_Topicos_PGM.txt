@@ -1,0 +1,36 @@
+[] convencoes:
+  [x] camelCase : [ nome_pasta , package , ]
+  [x] SnackCase : [ nome_arquivo, Classe, FuncaoExportavel, ]
+
+###
+
+[] Indice_Topicos
+
+[] descobrir_tipo_dos_valores
+
+[] operador_Geral_Atribuicao: atribuicaoGravarMemoria : [ Atribuicao_Grava_Imediato , Atribuicao_Futura_Objeto ]
+
+[] variaveis_Valores_Encapsulados: [ variavel_Singular, ]
+
+[] valores_Primitivos_Validos : 
+  possiveis: [ 
+    boleano: leituraGetProps , escritaSetAcaoModificador , operadorParaEsteTipo , 
+    ...
+    texto: leituraGetProps , escritaSetAcaoModificador , operadorParaEsteTipo: [ operadores_para_texto ] , 
+    ...
+    numero: leituraGetProps , escritaSetAcaoModificador , operadorParaEsteTipo : [
+      incremento, relacionais MaiorQue, MenorQue
+     ] 
+    ...
+    ] 
+  
+---
+
+valores_De_Tipos_Personalizados: [ nulo_ExisteVazio , indefinido_NaoExiste ] 
+
+encapsuladores_Primitivos_Compostos_Ref_Casca: 
+possiveis: [ date, funcao, objeto ]
+
+funcao: parametros: [ receberFuncaoPorParametro, ]
+
+

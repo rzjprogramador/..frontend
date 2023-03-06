@@ -1,0 +1,6 @@
+
+
+gravar_na_memoria_atribuindo:
+  atribuicao_gravacao_imediata: "TEM "ao atribuir com "=" já grava na memoria o dado.
+  
+  

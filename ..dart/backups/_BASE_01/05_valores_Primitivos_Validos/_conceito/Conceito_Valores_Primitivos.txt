@@ -1,0 +1,19 @@
+
+conceitualizando: como no dart o comportamento via getter é pra leitura/mostrar, o o comportamento via set é para escrita/modificar #regraSeguir #exemplar #exemplarQuandoFazermosNossosPersonalizados
+
+leitura: comportamento de propriedade get tecnica getter, da o poder de leitura mostrar.
+  quase_sempre: devolve leitura de propriedade.
+
+escrita: comportamento via metodo set tecnica setter da o poder de escrever/modificar.
+  quase_sempre: recebe um input , manipula o input e devolve o input modificado.
+
+importante:
+o importante é sempre o Tipo do valor que vc guarda na variavel e do retorno de funcoes ... é atravez dele que desencadeamos tudo que ela pode fazer
+
+conceito: variavel é uma informacao que precisa ter um valor, para com o tipo deste valor podermos usar desencadear seus comportamentos. 
+
+se nao tem ainda um valor definido pra ela, peça em parametro numa funcao.
+
+verifique com o que pediu um valor padrao com ?? caso nao venha nada e guarde numa auxiliar e use esta auxiliar no lugar ... ou verifique com if() se o que pediu contem valor pra poder usa-la .
+
+obs: importante de o valor padrao do mesmo tipo do valor que espera como sucesso.

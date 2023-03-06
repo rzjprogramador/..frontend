@@ -1,0 +1,5 @@
+
+operadores_para_texto:
+conceito: serao usados dentro de textos.
+ pular_linha: \n 
+ 

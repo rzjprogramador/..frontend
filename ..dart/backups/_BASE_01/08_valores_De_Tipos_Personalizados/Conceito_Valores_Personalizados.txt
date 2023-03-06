@@ -1,0 +1,2 @@
+
+ valores_De_Tipos_Personalizados : objeto que encapsula  somente um conjunto de primitivosValidos.

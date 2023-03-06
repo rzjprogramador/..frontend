@@ -1,0 +1,22 @@
+operadores_logicos_dart
+Operador	Descrição
+
+ maior_igual : ' >=	  Maior ou igual.',
+
+ maior : ' >	 	  Maior.',
+
+ menor_igual : ' <= 	 	Menor ou igual.',
+
+ menor : ' <		  Menor.',
+
+ e_do_mesmoTipo : ' is	  É do mesmo tipo.',
+
+ nao_e_do_mesmoTipo : ' is!	  Não é do mesmo tipo.',
+
+ igual : ' ==	  Igual.',
+
+ diferente : ' !=	  Diferente.',
+
+ e_tem_que_ser_tambem : ' &&	  E lógico (AND).',
+
+ ou_pode_ser : ' ||	  OU lógico (OR).',

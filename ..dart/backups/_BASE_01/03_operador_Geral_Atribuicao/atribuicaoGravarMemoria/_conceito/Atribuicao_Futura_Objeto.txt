@@ -1,0 +1,2 @@
+
+atribuicao_futura_objeto: "SERA"ao atribuir com ":" esta preparando uma chave de objeto para quando tiver o valor seja gravado no uso...ainda nao gravou na memoria vai gravar no uso.

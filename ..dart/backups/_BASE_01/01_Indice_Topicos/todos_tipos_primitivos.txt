@@ -1,0 +1,16 @@
+
+linguagem: dart
+
+texto: String
+numeroTodos: num
+numeroInteiro: int
+numeroDecimal: double
+
+boleano: bool
+
+funcao: Function
+
+data: DateTime
+
+---
+
